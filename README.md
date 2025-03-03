@@ -31,7 +31,7 @@ Below are the design principles that guided our Lailani visuals.
 - Deep Research Mode: Provides in-depth analysis with Sonar Deep Research
 
 # Contributors
-- Nikola Paunovic - Back-end developer
-- Rowwel Ponesto - Back-end developer
 - Patrick Gatpandan - Front-end developer
 - Xiaojun Gong - Front-end developer
+- Nikola Paunovic - Back-end developer
+- Rowwel Ponesto - Back-end developer
