@@ -25,10 +25,14 @@ Below are the design principles that guided our Lailani visuals.
 - Groq AI instantly creates flashcards based on uploaded content
 - Flashcards cover key points, definitions, and questions
 
+![lailani_thumbnail](imgs/lailani_Flashcard.jpg)
+
 # AI-Powered Research
 
 - Research Mode: Uses Perplexity AI for AI-driven explanations
 - Deep Research Mode: Provides in-depth analysis with Sonar Deep Research
+
+![lailani_thumbnail](imgs/lailani_Research.jpg)
 
 # Contributors
 - Patrick Gatpandan - Front-end developer
