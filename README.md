@@ -32,7 +32,7 @@ Below are the design principles that guided our Lailani visuals.
 - Research Mode: Uses Perplexity AI for AI-driven explanations
 - Deep Research Mode: Provides in-depth analysis with Sonar Deep Research
 
-![lailani_thumbnail](imgs/lailani_Research.jpg)
+![lailani_Research](https://github.com/user-attachments/assets/d5e45c49-db65-494a-8e4b-6f857abf478a)
 
 # Contributors
 - Patrick Gatpandan - Front-end developer
