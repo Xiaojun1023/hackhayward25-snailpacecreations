@@ -25,7 +25,7 @@ Below are the design principles that guided our Lailani visuals.
 - Groq AI instantly creates flashcards based on uploaded content
 - Flashcards cover key points, definitions, and questions
 
-![lailani_thumbnail](imgs/lailani_Flashcard.jpg)
+![lailani_Flashcard](https://github.com/user-attachments/assets/5a8166fd-f6cb-497f-ad48-c6d645915799)
 
 # AI-Powered Research
 
